@@ -21,7 +21,7 @@ services:
   app:
     image: pipekung/angular
     volumes:
-      - ./:/usr/src/app
+      - /path/to/your/project:/usr/src/app
     ports:
       - 4200:4200
     command: yarn start
