@@ -1,0 +1,8 @@
+dist: stretch
+language: node_js
+node_js:
+  - "12"
+matrix:
+  fast_finish: true
+script:
+  - echo "Hello World"
