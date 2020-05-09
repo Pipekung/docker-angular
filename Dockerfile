@@ -1,4 +1,4 @@
-FROM node:12.6-alpine
+FROM node:14.2-alpine
 
 LABEL maintainer="Channarong Janpanich <cj.pipekung@gmail.com>"
 
