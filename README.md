@@ -9,6 +9,7 @@ This is a image to build a container for angular-cli with
 
 - [`12`, `12-node16`, `latest`]()
 - [`11`, `11-node16`, `11-node16.2`]()
+- [`6`]()
 - [`node14.2`]()
 - [`node12.6`]()
 
