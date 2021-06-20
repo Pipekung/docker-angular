@@ -7,7 +7,7 @@ This is a image to build a container for angular-cli with
 
 # Supported tags
 
-- [`12`, `12-node16`, `latest`]()
+- [`12`, `12-node16`, `12-node16.2`, `latest`]()
 - [`11`, `11-node16`, `11-node16.2`]()
 - [`6`]()
 - [`node14.2`]()
