@@ -1,5 +1,5 @@
-![latest 12](https://img.shields.io/badge/latest-12-brightgreen.svg?style=flat)
-![node 16](https://img.shields.io/badge/node-16.2-darkgreen.svg) ![angular 12](https://img.shields.io/badge/angular-12-red.svg) [![Build Status](https://travis-ci.org/Pipekung/docker-angular.svg?branch=master)](https://travis-ci.org/Pipekung/docker-angular) [![](https://img.shields.io/docker/stars/pipekung/angular.svg)](https://hub.docker.com/r/pipekung/angular 'DockerHub') [![](https://img.shields.io/docker/pulls/pipekung/angular.svg)](https://hub.docker.com/r/pipekung/angular 'DockerHub') ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![latest 14](https://img.shields.io/badge/latest-14-brightgreen.svg?style=flat)
+![node 18](https://img.shields.io/badge/node-18.10-darkgreen.svg) ![angular 12](https://img.shields.io/badge/angular-14-red.svg) [![Build Status](https://travis-ci.org/Pipekung/docker-angular.svg?branch=master)](https://travis-ci.org/Pipekung/docker-angular) [![](https://img.shields.io/docker/stars/pipekung/angular.svg)](https://hub.docker.com/r/pipekung/angular 'DockerHub') [![](https://img.shields.io/docker/pulls/pipekung/angular.svg)](https://hub.docker.com/r/pipekung/angular 'DockerHub') ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Overview
 
